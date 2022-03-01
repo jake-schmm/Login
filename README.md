@@ -16,9 +16,9 @@ For creating an account:
 
 
 Explanation of files: 
-signup.php- the action performed when "Submit" is clicked when creating a new use through newuser.php 
-newuser.php - the UI for registering a new user 
-login.php - the action performed when "Login" is clicked on UserLoginForm.html
-UserLoginForm.html - the UI for login screen
-common.php - borrowed from a tutorial - contains an error() method for displaying error messages and returning to previous page 
+- signup.php- the action performed when "Submit" is clicked when creating a new use through newuser.php 
+- newuser.php - the UI for registering a new user 
+- login.php - the action performed when "Login" is clicked on UserLoginForm.html
+- UserLoginForm.html - the UI for login screen
+- common.php - borrowed from a tutorial - contains an error() method for displaying error messages and returning to previous page 
 
