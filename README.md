@@ -16,7 +16,7 @@ For creating an account:
 
 
 Explanation of files: 
-- signup.php- the action performed when "Submit" is clicked when creating a new use through newuser.php 
+- signup.php- the action performed when "Submit" is clicked. This is in the context of creating a new user through newuser.php 
 - newuser.php - the UI for registering a new user 
 - login.php - the action performed when "Login" is clicked on UserLoginForm.html
 - UserLoginForm.html - the UI for login screen
