@@ -12,7 +12,7 @@ Login:
 
 For creating an account:
   1. If not all required fields are filled out, an alert will appear that asks the user to fill out all required fields before returning back to registration form. (The code for this functionality was borrowed from a tutorial). 
-  2. If a username that already exists is entered, it will return to the form after asking the user to enter another username. The front-end for this portion was borrowed from a tutorial (https://www.sitepoint.com/users-php-sessions-mysql/), but the backend functionality (connecting to database and using prepared statements) was developed after being exposed to MySQL & PHP tutorials (https://alexwebdevelop.com/how-to-learn-php/). 
+  2. If a username that already exists is entered, it will return to the form after asking the user to enter another username. The front-end for this portion was borrowed from a tutorial (https://www.sitepoint.com/users-php-sessions-mysql/), but the some of the backend functionality (connecting to database and the use of prepared statements) was developed initially after being exposed to MySQL & PHP tutorials (https://alexwebdevelop.com/how-to-learn-php/). 
 
 
 Explanation of files: 
