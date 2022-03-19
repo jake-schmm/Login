@@ -19,6 +19,6 @@ Explanation of files:
 - signup.php- the action performed when the "Submit" button on the new user registration form (newuser.php) is clicked 
 - newuser.php - the UI for registering a new user 
 - login.php - the action performed when "Login" is clicked on UserLoginForm.html
-- UserLoginForm.html - the UI for login screen
+- index.html - the UI for login screen (main page)
 - common.php - borrowed from a tutorial - contains an error() method for displaying error messages and returning to previous page 
 
